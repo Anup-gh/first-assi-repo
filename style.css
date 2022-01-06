@@ -1,0 +1,170 @@
+body{
+    font-family: 'Libre Baskerville','Poppins', sans-serif;
+    margin: 0;
+}
+.top-part{
+    display: flex;
+    padding-top: 50px;
+
+}
+.first-part{
+    width:40%;
+    float:left;
+    margin-left: 5%;
+}
+.first-part img{
+    width: 75%;
+    padding-left: 200px;
+}
+.black-color{
+    font-size: 60px;
+    color: #333333;
+}
+.orange-color{
+    font-size: 50px;
+    color: #ffad5a;
+}
+.explore-button{
+    color: white;
+    background: #ff5959;
+    padding: 15px 45px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.small-paragraph{
+    padding-top: 60px;
+}
+p{
+    padding-bottom: 40px;
+}
+.heading-item{
+    font-size: 40px;
+    font-weight: bold;
+    padding-top: 60px;
+    padding-bottom: 60px;
+    color: #13103a;
+    text-align:  center;
+}
+.orange-col{
+    color:#ffad5a
+}
+.flaxible-part{
+    display: flex;
+    justify-content: space-around;
+    
+}
+#first-part-block{
+    border-left: 7px solid;
+   border-image: #ff5959:
+   border-image-slice:1 ;
+}
+#block-part{
+    padding-left: 15px;
+}
+.div-item{
+    width: 350px;
+    height: 350px;
+    border-radius: 15px;
+    padding-left: 40px;
+    padding-top: 40px;
+}
+#blue-item{
+    background-color: #edf5f6;
+}
+#pink-item{
+    background-color: #ffeeee;
+}
+#yellow-item{
+    background-color: #fff4d6;
+}
+.div-image img{
+    width: 180px;
+}
+.explore-button-3rd-part{
+    color: white;
+    background: #ff5959;
+    padding: 20px 55px;
+    border-radius: 5px;
+    font-weight: 700;
+    text-decoration: none;
+}
+.third-part img{
+    width: 60%;
+    padding-left: 105px;
+}
+.third-item{
+    width: 100%;
+    padding-right: 80px;
+}
+.item-para{
+    font-size: 40px;
+    font-weight: bolder;
+    font-family:'Poppins', sans-serif; 
+}
+.third-part-item{
+   background-image: url(./image/shape-1.png);
+   background-repeat: no-repeat;
+   display: flex;
+   padding-top: 150px;
+   background-size: 300px 300px;
+   background-origin: content-box;
+   background-position: left;
+
+}
+.third-item{
+    font-family: 'Poppins', sans-serif
+}
+.forth-part-item2{
+    background-image: url(./image/shape-1.png);
+    background-repeat: no-repeat;
+    display: flex;
+    padding-top: 150px;
+    background-size: 300px 300px;
+    background-position: calc(100% - 20px) calc(100% - 0px);
+    padding-left: 150px;
+}
+.fifth-part{
+    padding-bottom: 80px;
+}
+.corona{
+    text-align: center;
+    font-family: 'Poppins', sans-serif;
+    font-size: 40px;
+    font-weight: 900;
+    padding-top: 35px;
+    padding-bottom: 40px;
+}
+.blood img{
+    width: 100%;
+    padding-left: 150px;
+}
+.blood-item{
+    width:50%;
+    padding-left: 150px;
+    
+}
+.red-item{
+    color:#ff5959;
+}
+.black-last{
+    background-color: #0b0d17;
+    height: 150px;
+    text-align:  center;
+    padding-top: 25px;
+    
+}
+.white-item{
+    color:white;
+    font-family: 'Lobster', cursive;
+    
+}
+#extra-font{
+    color:#ff5959;
+    font-size: 40px;
+    
+}
+.small-white{
+    color: white;
+    padding-top: 20px;
+}
